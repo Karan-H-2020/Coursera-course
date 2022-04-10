@@ -4,5 +4,5 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.com/Karan-H-2020/Coursera-course/blob/main/Module-2/index.html)
+# To see the output [CLICK HERE](https://karan-h-2020.github.io/Coursera-course/index.html)
 
